@@ -61,8 +61,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "Wayland",
-    "current_program_scene": "Wayland",
+    "current_scene": "X",
+    "current_program_scene": "X",
     "scene_order": [
         {
             "name": "X"
@@ -79,7 +79,9 @@
             "uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
             "id": "xshm_input",
             "versioned_id": "xshm_input",
-            "settings": {},
+            "settings": {
+                "show_cursor": true
+            },
             "mixers": 0,
             "sync": 0,
             "flags": 0,
@@ -99,17 +101,17 @@
         },
         {
             "prev_ver": 520093696,
-            "name": "Wayland",
-            "uuid": "42750ce1-56a0-45bc-bbce-ce0cf134beab",
+            "name": "X",
+            "uuid": "104d0062-c220-4beb-a5fd-90410c930cdd",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 1,
+                "id_counter": 9,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "Screen Capture (PipeWire)",
-                        "source_uuid": "cb4266ae-b931-4d98-ad75-61fc332269b4",
+                        "name": "Screen Capture (XSHM)",
+                        "source_uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -140,8 +142,8 @@
                             "y": 1.0
                         },
                         "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 0.75,
+                            "y": 0.75
                         },
                         "bounds": {
                             "x": 0.0,
@@ -187,17 +189,17 @@
         },
         {
             "prev_ver": 520093696,
-            "name": "X",
-            "uuid": "104d0062-c220-4beb-a5fd-90410c930cdd",
+            "name": "Wayland",
+            "uuid": "cb276749-94f5-4d29-b459-8a6c5890104f",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 6,
+                "id_counter": 1,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "Screen Capture (XSHM)",
-                        "source_uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
+                        "name": "Screen Capture (PipeWire)",
+                        "source_uuid": "7388a1b5-d03f-45a6-822e-7427711a93c3",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -224,8 +226,8 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 1.3333333730697632,
+                            "y": 1.3333333730697632
                         },
                         "scale_rel": {
                             "x": 1.0,
@@ -276,7 +278,7 @@
         {
             "prev_ver": 520093696,
             "name": "Screen Capture (PipeWire)",
-            "uuid": "cb4266ae-b931-4d98-ad75-61fc332269b4",
+            "uuid": "7388a1b5-d03f-45a6-822e-7427711a93c3",
             "id": "pipewire-screen-capture-source",
             "versioned_id": "pipewire-screen-capture-source",
             "settings": {

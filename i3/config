@@ -30,11 +30,12 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id nm-applety
 
 #exec xrandr --output DP-0 --mode 1920x1080 --rate 144.00
-exec xrandr --output HDMI-0 --mode 1920x1080 --rate 74.97
+exec xrandr --output DP-2 --mode 2560x1440 --rate 180.00
 exec xinput --set-prop "Logitech G502 HERO Gaming Mouse" 'libinput Accel Profile Enabled' 0, 1
 
+exec export XDG_MENU_PREFIX=plasma- && kbuildsycoca6
+
 exec setxkbmap -layout us, de
-exec picom
 exec dunst
 #exec compfy
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1

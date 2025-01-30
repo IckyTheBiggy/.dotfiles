@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/bnn/UnityProjects/GJ/Files/Blender/FBX Export/
+/home/bnn/UnityProjects/GJ/Files/Blender/
+/home/bnn/Downloads/
+/home/bnn/UnityProjects/BeatRunner/Assets/Models/
+/home/bnn/UnityProjects/BeatRunner/Files/Blender/
+/home/bnn/UnityProjects/Adventure Fighter/Files/Blender/
+/home/bnn/UnityProjects/Adventure Fighter/Files/Fbx/
+/home/bnn/UnityProjects/EscapeRoom/Assets/Models/
+/home/bnn/UnityProjects/EscapeRoom/Files/Blender/
+/home/bnn/UnityProjects/Space Game/Files/Blender/

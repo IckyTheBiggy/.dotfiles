@@ -118,3 +118,9 @@
 2024/12/05 (11:03:17) | ERROR: Couldn't determine terminal size of "/dev/tty"!
 2024/12/05 (11:03:17) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
 2024/12/05 (11:03:17) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/01/29 (00:00:51) | ===> btop++ v.1.4.0
+2025/01/29 (00:00:51) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2025/01/29 (00:00:56) | ===> btop++ v.1.4.0
+2025/01/29 (00:00:56) | ERROR: Exception during Config::unlock() : unordered_map::at
