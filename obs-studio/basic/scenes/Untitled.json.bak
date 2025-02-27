@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093696,
+        "prev_ver": 520093697,
         "name": "Desktop Audio",
         "uuid": "11e64db1-275e-4928-b06e-d45b1b0c4c7f",
         "id": "pulse_output_capture",
@@ -31,7 +31,7 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 520093696,
+        "prev_ver": 520093697,
         "name": "Mic/Aux",
         "uuid": "cd3d66c6-7302-4245-a224-dd5d0cdd8e33",
         "id": "pulse_input_capture",
@@ -74,7 +74,7 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520093696,
+            "prev_ver": 520093697,
             "name": "Screen Capture (XSHM)",
             "uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
             "id": "xshm_input",
@@ -100,7 +100,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093696,
+            "prev_ver": 520093697,
             "name": "X",
             "uuid": "104d0062-c220-4beb-a5fd-90410c930cdd",
             "id": "scene",
@@ -188,7 +188,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093696,
+            "prev_ver": 520093697,
             "name": "Wayland",
             "uuid": "cb276749-94f5-4d29-b459-8a6c5890104f",
             "id": "scene",
@@ -276,7 +276,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093696,
+            "prev_ver": 520093697,
             "name": "Screen Capture (PipeWire)",
             "uuid": "7388a1b5-d03f-45a6-822e-7427711a93c3",
             "id": "pipewire-screen-capture-source",
@@ -357,8 +357,8 @@
         }
     },
     "resolution": {
-        "x": 1920,
-        "y": 1080
+        "x": 2560,
+        "y": 1440
     },
     "version": 2,
     "migration_resolution": {

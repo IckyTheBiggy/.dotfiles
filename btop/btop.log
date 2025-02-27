@@ -124,3 +124,6 @@
 
 2025/01/29 (00:00:56) | ===> btop++ v.1.4.0
 2025/01/29 (00:00:56) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2025/02/24 (22:32:40) | ===> btop++ v.1.4.0
+2025/02/24 (22:32:40) | ERROR: Exception during Config::unlock() : unordered_map::at

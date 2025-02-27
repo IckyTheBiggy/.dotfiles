@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
+/home/bnn/Downloads/
+/home/bnn/Downloads/source/
+/home/bnn/Downloads/1737458762649/
+/home/bnn/Downloads/Marin Kitagawa/
+/home/bnn/UnityProjects/Project-Escape/Assets/Models/
+/home/bnn/UnityProjects/Project-Escape/Files/Blender/
+/home/bnn/Downloads/buchistore_twin/buchistore_twin/
 /home/bnn/UnityProjects/GJ/Files/Blender/FBX Export/
 /home/bnn/UnityProjects/GJ/Files/Blender/
-/home/bnn/Downloads/
 /home/bnn/UnityProjects/BeatRunner/Assets/Models/
-/home/bnn/UnityProjects/BeatRunner/Files/Blender/
-/home/bnn/UnityProjects/Adventure Fighter/Files/Blender/
-/home/bnn/UnityProjects/Adventure Fighter/Files/Fbx/
-/home/bnn/UnityProjects/EscapeRoom/Assets/Models/
-/home/bnn/UnityProjects/EscapeRoom/Files/Blender/
-/home/bnn/UnityProjects/Space Game/Files/Blender/

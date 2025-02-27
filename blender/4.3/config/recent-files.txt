@@ -1,3 +1,6 @@
+/home/bnn/Downloads/Marin Kitagawa/Marin.blend
+/home/bnn/UnityProjects/Project-Escape/Files/Blender/Key.blend
+/home/bnn/Downloads/IFKfyv2.blend
 /home/bnn/UnityProjects/GJ/Files/Blender/Enemy.blend
 /home/bnn/Downloads/EnemyRig.blend
 /home/bnn/GameDevStuff/DoomRemakeAssets/SkullKey.blend
