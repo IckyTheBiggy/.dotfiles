@@ -1,3 +1,5 @@
+/home/bnn/Assets/CatGirlRunner.blend
+/home/bnn/Assets/WallpaperGirl.blend
 /home/bnn/Downloads/Marin Kitagawa/Marin.blend
 /home/bnn/UnityProjects/Project-Escape/Files/Blender/Key.blend
 /home/bnn/Downloads/IFKfyv2.blend
