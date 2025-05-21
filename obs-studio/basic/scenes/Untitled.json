@@ -1,14 +1,14 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093697,
+        "prev_ver": 520093699,
         "name": "Desktop Audio",
-        "uuid": "11e64db1-275e-4928-b06e-d45b1b0c4c7f",
+        "uuid": "97a5568a-4153-4c07-8193-80cb19af69d1",
         "id": "pulse_output_capture",
         "versioned_id": "pulse_output_capture",
         "settings": {
             "device_id": "default"
         },
-        "mixers": 255,
+        "mixers": 225,
         "sync": 0,
         "flags": 0,
         "volume": 1.0,
@@ -31,18 +31,18 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 520093697,
+        "prev_ver": 520093699,
         "name": "Mic/Aux",
-        "uuid": "cd3d66c6-7302-4245-a224-dd5d0cdd8e33",
+        "uuid": "dfb3813b-15f3-49ce-804e-f5473f2fb465",
         "id": "pulse_input_capture",
         "versioned_id": "pulse_input_capture",
         "settings": {
-            "device_id": "alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo"
+            "device_id": "default"
         },
-        "mixers": 255,
+        "mixers": 194,
         "sync": 0,
         "flags": 0,
-        "volume": 0.0,
+        "volume": 1.0,
         "balance": 0.5,
         "enabled": true,
         "muted": false,
@@ -61,54 +61,31 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "X",
-    "current_program_scene": "X",
+    "current_scene": "Scene",
+    "current_program_scene": "Scene",
     "scene_order": [
         {
-            "name": "X"
+            "name": "Scene"
+        },
+        {
+            "name": "Scene 2"
         }
     ],
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520093697,
-            "name": "Screen Capture (XSHM)",
-            "uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
-            "id": "xshm_input",
-            "versioned_id": "xshm_input",
-            "settings": {
-                "show_cursor": true
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093697,
-            "name": "X",
-            "uuid": "104d0062-c220-4beb-a5fd-90410c930cdd",
+            "prev_ver": 520093699,
+            "name": "Scene",
+            "uuid": "e8696a3e-bfa5-4b72-9740-472497d71c34",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 10,
+                "id_counter": 1,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "Screen Capture (XSHM)",
-                        "source_uuid": "cdff5c87-9e8a-4ba2-bc7b-a2e11d1656a7",
+                        "name": "Display Capture (XSHM)",
+                        "source_uuid": "0ce938da-86b3-4f06-a8a6-0dbeb85d4cde",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -183,6 +160,62 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 520093699,
+            "name": "Display Capture (XSHM)",
+            "uuid": "0ce938da-86b3-4f06-a8a6-0dbeb85d4cde",
+            "id": "xshm_input_v2",
+            "versioned_id": "xshm_input_v2",
+            "settings": {
+                "screen": 0
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093699,
+            "name": "Scene 2",
+            "uuid": "658814fe-3132-4e31-a509-d3d7cadb91cd",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 3,
+                "custom_size": false,
+                "items": []
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "groups": [],
@@ -243,9 +276,5 @@
         "x": 2560,
         "y": 1440
     },
-    "version": 2,
-    "migration_resolution": {
-        "x": 1920,
-        "y": 1080
-    }
+    "version": 2
 }
