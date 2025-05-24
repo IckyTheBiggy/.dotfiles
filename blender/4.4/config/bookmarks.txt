@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/home/bnn/Downloads/
 /home/bnn/UnityProjects/Vector-Zero/Files/Models/
 /home/bnn/UnityProjects/Vector-Zero/Assets/Models/
 /home/bnn/UnityProjects/Vector-Zero/Files/Models/GravityGranade/
@@ -8,5 +9,4 @@
 /home/bnn/UnityProjects/Vector-Zero/Files/Models/Catgirl/
 /home/bnn/UnityProjects/Vector-Zero/Files/Blender/
 /home/bnn/UnityProjects/BeatRunner/Assets/surf_mesa/
-/home/bnn/Downloads/
 /home/bnn/Assets/Test/

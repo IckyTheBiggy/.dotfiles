@@ -37,7 +37,7 @@ exec export XDG_MENU_PREFIX=plasma- && kbuildsycoca6
 
 exec setxkbmap -layout pl
 exec dunst
-#exec compfy
+exec picom
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 exec steam
