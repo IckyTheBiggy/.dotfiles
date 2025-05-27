@@ -39,6 +39,7 @@
 !/wal/
 !/xsettingsd/
 !/settings.zip
+!/package_list.txt
 
 /backgrounds/test
 /obs-studio/logs/
