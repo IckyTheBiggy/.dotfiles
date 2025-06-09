@@ -42,6 +42,8 @@
 !/settings.zip
 !/package_list.txt
 
+!/install.sh
+
 /backgrounds/test
 /obs-studio/logs/
 /obs-studio/safe_mode
