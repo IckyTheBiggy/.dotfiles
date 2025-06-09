@@ -163,6 +163,7 @@ Speedbar Width=172
 View Style=DetailTree
 
 [PreviewSettings]
+EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
 
 [WM]

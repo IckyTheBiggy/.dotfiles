@@ -32,6 +32,7 @@
 !/qtile/
 !/QtProject/
 !/QtProject.conf
+!/quickshell/
 !/rofi/
 !/README
 !/spicetify/
