@@ -1,0 +1,14 @@
+{
+	"locale": [
+		"en"
+	],
+	"warnBeforeExit": true,
+	"minimizeToTray": true,
+	"spellCheckerEnabled": true,
+	"autoHideMenuBar": true,
+	"disableHardwareAcceleration": false,
+	"safeStorageBackend": "basic_text",
+	"safeStorage": {
+		"seshat|@bnnnnnnnn:matrix-org|HYARHLYJMU": "djEwTaeT2/aMNKJGfkDXxXpVMrGmu0e2zlFN4NP+Y5o7K55IQQBztg8hroNZsaHK/2IG"
+	}
+}
