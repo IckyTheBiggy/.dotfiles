@@ -46,7 +46,7 @@ replay.record_options.audio_track_item false device:default_input
 replay.record_options.change_video_resolution true
 replay.record_options.codec hevc
 replay.record_options.color_range limited
-replay.record_options.fps 60
+replay.record_options.fps 120
 replay.record_options.framerate_mode cfr
 replay.record_options.merge_audio_tracks true
 replay.record_options.overclock false
@@ -57,7 +57,7 @@ replay.record_options.record_cursor true
 replay.record_options.restore_portal_session true
 replay.record_options.video_bitrate 120000
 replay.record_options.video_height 1440
-replay.record_options.video_quality ultra
+replay.record_options.video_quality custom
 replay.record_options.video_width 2560
 replay.replay_storage ram
 replay.restart_replay_on_save false
