@@ -27,7 +27,7 @@ else
 fi
 
 # List of packages to install
-PACKAGES=("wallust" foot" "btop" "fish")
+PACKAGES=("wallust" foot" "btop" "fish" "swww" "quickshell" "firefox" "neofetch" "cava" "cmatrix")
 
 paru -S --noconfirm "${PACKAGES[@]}
 
