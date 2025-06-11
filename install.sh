@@ -31,4 +31,5 @@ PACKAGES=("wallust" foot" "btop" "fish" "swww" "quickshell" "firefox" "neofetch"
 
 paru -S --noconfirm "${PACKAGES[@]}
 
+
 echo "Script finished succesfully"
